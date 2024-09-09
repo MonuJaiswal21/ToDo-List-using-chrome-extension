@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "To Do List",
+  "version": "1.0",
+  "description": "Manage your tasks with CRUD operations",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
